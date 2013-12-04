@@ -1,0 +1,9 @@
+INTRODUCTION                                    *line6*
+
+Determine whether your cursor is currently on line 6.
+
+COMMANDS                                        *line6-commands*
+
+:AmIOnLineSix                                   *lion6-:AmIOnLineSix*
+                        Output "Yes" if the cursor is on line 6; output
+                        "No" otherwise.

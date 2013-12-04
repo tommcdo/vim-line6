@@ -6,4 +6,4 @@ function! s:line6()
 	endif
 endfunction
 
-command! AmIOnLineSix call <SID>line6()
+command! MI6 call <SID>line6()

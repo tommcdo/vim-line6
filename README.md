@@ -21,3 +21,9 @@ then simply copy and paste:
 
 Once help tags have been generated, you can view the manual with
 `:help line6`.
+
+Contributing
+------------
+
+This plugin is a lot of work and can't be taken on by just one developer, so
+contributions are welcome. All pull requests will be merged without question.
